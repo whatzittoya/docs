@@ -13,7 +13,7 @@ Tanpa Surat Tugas, kegiatan tersebut tidak dianggap resmi dan bisa menyulitkan d
 
 ## Siapa yang Bisa Mengajukan?
 - 👩‍💼 **Pegawai** → mengajukan untuk dirinya sendiri.  
-- 👨‍🏫 **Atasan (Kajur/KTU)** → bisa membantu mengajukan atas nama pegawai lain.  
+- 👨‍🏫 **Atasan (Kajur/Kabag)** → bisa membantu mengajukan atas nama pegawai lain.  
 
 ---
 
@@ -53,7 +53,7 @@ Ukuran maksimal file: **10 MB**.
 ---
 
 ### 4. (Opsional) Ajukan untuk Orang Lain
-Jika Anda Kajur/KTU, bisa mengajukan atas nama pegawai lain:  
+Jika Anda Kajur/Kabag, bisa mengajukan atas nama pegawai lain:  
 1. Centang opsi **“Ajukan untuk pegawai lain”**.  
 2. Cari nama pegawai dari daftar.  
 3. Lengkapi data dan dokumen seperti biasa.  
@@ -75,11 +75,11 @@ Jika Anda Kajur/KTU, bisa mengajukan atas nama pegawai lain:
 Proses pengajuan melalui beberapa tahap:
 
 ```mermaid
-flowchart LR
+flowchart TB
   A[Pegawai Ajukan] --> B[Kajur Review]
   B -->|Setuju| C[Dekan Review]
   B -->|Tolak| R[Ditolak]
-  C -->|Setuju| D[KTU Proses]
+  C -->|Setuju| D[Kabag Proses]
   C -->|Tolak| R
   D --> E[Surat Tugas Terbit]
   E --> F[Notifikasi & Download]

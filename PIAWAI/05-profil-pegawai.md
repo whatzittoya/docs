@@ -140,7 +140,7 @@ Format file: **PDF/JPG/PNG** dengan ukuran maksimal 10 MB.
 - ❌ **Tidak bisa simpan profil** → cek apakah ada kolom wajib (*) yang belum diisi.  
 - ❌ **Gagal upload dokumen** → pastikan ukuran file < 10 MB dan format sesuai (PDF/JPG/PNG).  
 - ❌ **Data tidak muncul** → refresh halaman atau logout-login ulang.  
-- ❌ **Data salah terlanjur disimpan** → segera hubungi KTU untuk diperbaiki.  
+- ❌ **Data salah terlanjur disimpan** → segera hubungi Kabag untuk diperbaiki.  
 
 ---
 

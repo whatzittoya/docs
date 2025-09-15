@@ -14,7 +14,7 @@ Dengan adanya PIAWAI FISIP, semua proses administrasi bisa dilakukan secara **di
    Semua pengajuan (cuti, surat tugas, promosi) dilakukan secara online tanpa harus mengantar berkas fisik.
 
 2. **Transparansi**  
-   Pegawai dapat memantau status pengajuan secara **real-time**: apakah sudah disetujui Kajur, Dekan, atau masih menunggu proses KTU.
+   Pegawai dapat memantau status pengajuan secara **real-time**: apakah sudah disetujui Kajur, Dekan, atau masih menunggu proses Kabag.
 
 3. **Akurasi Data**  
    Data pegawai tersimpan di satu sistem terintegrasi sehingga tidak ada data ganda atau tercecer.

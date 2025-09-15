@@ -35,7 +35,7 @@ Pegawai bisa mengajukan berbagai kebutuhan tanpa harus datang langsung ke bagian
 
 ## 3. Alur Persetujuan (Approval Workflow)
 - 🔄 **Proses Bertingkat**  
-  Pengajuan melalui alur jelas: **Pegawai → Kajur → Dekan → KTU**.  
+  Pengajuan melalui alur jelas: **Pegawai → Kajur → Dekan → Kabag**.  
 - 📡 **Notifikasi Otomatis**  
   Sistem memberi pemberitahuan ketika ada status baru (disetujui/ditolak).  
 - 🕑 **Status Real-Time**  
@@ -49,7 +49,7 @@ Pegawai bisa mengajukan berbagai kebutuhan tanpa harus datang langsung ke bagian
 
 ## 4. Laporan & Analitik
 - 📊 **Dashboard Peran**  
-  Setiap pengguna (pegawai, Kajur, Dekan, KTU) punya tampilan dashboard sesuai kebutuhannya.  
+  Setiap pengguna (pegawai, Kajur, Dekan, Kabag) punya tampilan dashboard sesuai kebutuhannya.  
 - 📈 **Statistik**  
   Menampilkan data cuti, surat tugas, dan promosi pegawai.  
 - 📑 **Ekspor Data**  
@@ -63,7 +63,7 @@ Pegawai bisa mengajukan berbagai kebutuhan tanpa harus datang langsung ke bagian
 - 🔑 **Login Aman**  
   Hanya email resmi **@unri.ac.id** yang bisa dipakai.  
 - 🔒 **Kontrol Akses**  
-  Hak akses berbeda sesuai peran (pegawai, Kajur, KTU, Dekan, Admin).  
+  Hak akses berbeda sesuai peran (pegawai, Kajur, Kabag, Dekan, Admin).  
 - ⏱️ **Manajemen Sesi**  
   Sistem otomatis keluar jika tidak digunakan dalam waktu tertentu.  
 - 🛡️ **Enkripsi Data**  
@@ -91,5 +91,5 @@ Pegawai bisa mengajukan berbagai kebutuhan tanpa harus datang langsung ke bagian
 Dengan fitur-fitur tersebut, **PIAWAI FISIP** membantu:  
 - Pegawai → lebih cepat mengurus administrasi.  
 - Kajur & Dekan → lebih mudah memverifikasi.  
-- KTU → lebih praktis menerbitkan dokumen.  
+- Kabag → lebih praktis menerbitkan dokumen.  
 - Fakultas → lebih rapi dalam menyimpan data dan membuat laporan.  

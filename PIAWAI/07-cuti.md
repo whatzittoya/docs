@@ -52,7 +52,7 @@ Format: **PDF, DOC, JPG** (maksimal 10 MB).
 ---
 
 ### 4. (Opsional) Ajukan untuk Orang Lain
-Jika Anda Kajur/KTU, bisa membantu pegawai lain:  
+Jika Anda Kajur/Kabag, bisa membantu pegawai lain:  
 1. Centang opsi **“Ajukan untuk pegawai lain”**.  
 2. Pilih nama pegawai dari daftar.  
 3. Lengkapi formulir sesuai data pegawai tersebut.  
@@ -74,9 +74,9 @@ Jika Anda Kajur/KTU, bisa membantu pegawai lain:
 Pengajuan cuti melalui proses bertahap:
 
 ```mermaid
-flowchart LR
-  A[Pegawai Ajukan] --> B[Dekan Review]
-  B -->|Setuju| C[KTU Proses]
+flowchart TB
+  A[Pegawai Ajukan Cuti] --> B[Dekan Review]
+  B -->|Setuju| C[Kabag Proses]
   B -->|Tolak| R[Ditolak]
   C --> D[Saldo Cuti Diperbarui]
   D --> E[Notifikasi & Email]

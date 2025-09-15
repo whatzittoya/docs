@@ -91,7 +91,7 @@ Pastikan file jelas dan tidak lebih dari 10 MB.
 ---
 
 ### 6. (Opsional) Ajukan untuk Orang Lain
-Jika Anda KTU/Kajur:  
+Jika Anda Kabag/Kajur:  
 1. Centang opsi **“Ajukan untuk pegawai lain”**.  
 2. Pilih nama pegawai dari daftar.  
 3. Lengkapi data & dokumen.  
@@ -113,11 +113,11 @@ Jika Anda KTU/Kajur:
 Prosesnya lebih panjang dibanding cuti atau surat tugas:  
 
 ```mermaid
-flowchart LR
-  A[Pegawai Ajukan] --> B[KTU Review]
+flowchart TB
+  A[Pegawai Ajukan Naik Jabfung] --> B[Kabag Review]
   B -->|Setuju| C[Dekan Review]
   B -->|Tolak| R[Ditolak]
-  C -->|Setuju| D[KTU Kirim ke Universitas]
+  C -->|Setuju| D[Kabag Kirim ke Universitas]
   C -->|Tolak| R
   D --> E[Universitas Evaluasi]
   E --> F[Penilaian Eksternal]

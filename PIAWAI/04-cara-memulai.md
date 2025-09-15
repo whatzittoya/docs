@@ -37,7 +37,7 @@ Sebelum menggunakan sistem, pastikan Anda sudah memiliki:
 ---
 
 ### Langkah 3: Pengenalan Peran Otomatis
-1. Setelah login berhasil, sistem otomatis mengenali peran Anda (Pegawai, Kajur, KTU, Dekan, atau Admin).  
+1. Setelah login berhasil, sistem otomatis mengenali peran Anda (Pegawai, Kajur, Kabag, Dekan, atau Admin).  
 2. Dashboard yang tampil akan berbeda tergantung peran Anda.  
 3. Tidak perlu memilih manual, peran sudah ditentukan berdasarkan data di sistem.  
 
