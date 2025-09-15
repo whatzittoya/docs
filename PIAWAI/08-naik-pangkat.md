@@ -1,24 +1,93 @@
 # 📈 Panduan Pengajuan Naik Pangkat
 
-## Dokumen Wajib
-- SK Pangkat terakhir.  
-- SK Fungsional & PAK.  
-- SKP 2 tahun terakhir.  
-- PAK konversi.  
+## Apa itu Naik Pangkat?
+**Naik Pangkat** adalah kenaikan golongan pegawai berdasarkan masa kerja, prestasi, dan persyaratan tertentu.  
+Contoh: dari III/a ke III/b, atau dari III/c ke III/d.  
 
-## Langkah-Langkah
-1. Login → menu **Pengajuan → Naik Pangkat**.  
-2. Isi data pangkat & golongan.  
-3. Upload dokumen.  
-4. Klik **Submit Pengajuan**.  
+Dengan **PIAWAI FISIP**, pengajuan naik pangkat dilakukan secara online, sehingga lebih cepat dan transparan.
 
-## Alur Persetujuan
-Pegawai → KTU → Dekan → KTU kirim ke Universitas → Evaluasi → SK terbit.  
+---
 
-## Catatan
-- Proses 45–75 hari kerja.  
-- Hanya 1 pengajuan aktif.  
+## Golongan Pegawai
+- **Golongan I**: I/a, I/b, I/c, I/d  
+- **Golongan II**: II/a, II/b, II/c, II/d  
+- **Golongan III**: III/a, III/b, III/c, III/d  
+- **Golongan IV**: IV/a, IV/b, IV/c, IV/d  
 
-## Masalah Umum
-- ❌ Upload gagal → cek ukuran (<10MB).  
-- ❌ Ditolak universitas → lengkapi syarat.  
+---
+
+## Dokumen yang Wajib Disiapkan
+1. 📑 **SK Pangkat Terakhir**  
+2. 📑 **SK Fungsional & PAK (Penilaian Angka Kredit)**  
+3. 📑 **SKP (Sasaran Kinerja Pegawai) 2 Tahun Terakhir**  
+4. 📑 **PAK Konversi** (jika ada)  
+
+Semua dokumen harus dalam format **PDF** dan ukuran maksimal **10 MB**.
+
+---
+
+## Langkah-Langkah Pengajuan Naik Pangkat
+
+### 1. Akses Formulir
+1. Login ke **PIAWAI FISIP**.  
+2. Pilih menu **Pengajuan → Naik Pangkat**.  
+3. Akan muncul formulir naik pangkat.  
+
+> 📸 *Screenshot 1: Halaman formulir naik pangkat.*  
+
+---
+
+### 2. Isi Data Pribadi
+Isi data dasar kepegawaian Anda:  
+- Nama lengkap  
+- NIP (Nomor Induk Pegawai)  
+- Pangkat saat ini  
+- Golongan saat ini  
+
+> 📸 *Screenshot 2: Kolom data pribadi di formulir naik pangkat.*  
+
+---
+
+### 3. Unggah Dokumen
+Unggah semua dokumen wajib:  
+- SK pangkat terakhir  
+- SK fungsional & PAK  
+- SKP 2 tahun terakhir  
+- PAK konversi (jika ada)  
+
+> 📸 *Screenshot 3: Bagian upload dokumen naik pangkat.*  
+
+---
+
+### 4. (Opsional) Ajukan untuk Orang Lain
+Jika Anda KTU/Kajur:  
+1. Centang opsi **“Ajukan untuk pegawai lain”**.  
+2. Pilih nama pegawai dari daftar.  
+3. Lengkapi data dan dokumen seperti biasa.  
+
+> 📸 *Screenshot 4: Dropdown pilihan pegawai untuk diajukan.*  
+
+---
+
+### 5. Kirim Pengajuan
+1. Pastikan data dan dokumen benar.  
+2. Klik tombol **Submit Pengajuan**.  
+3. Tunggu notifikasi berhasil dikirim.  
+
+> 📸 *Screenshot 5: Halaman konfirmasi submit naik pangkat.*  
+
+---
+
+## Alur Persetujuan Naik Pangkat
+Pengajuan melalui beberapa tahap:
+
+```mermaid
+flowchart LR
+  A[Pegawai Ajukan] --> B[KTU Review]
+  B -->|Setuju| C[Dekan Review]
+  B -->|Tolak| R[Ditolak]
+  C -->|Setuju| D[KTU Kirim ke Universitas]
+  C -->|Tolak| R
+  D --> E[Universitas Proses]
+  E --> F[Keputusan Akhir]
+  F --> G[SK Pangkat Baru]
